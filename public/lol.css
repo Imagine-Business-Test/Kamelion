@@ -4,3 +4,7 @@
     visibility: hidden;
     z-index: -99999;
 }
+head{
+    color: red;
+    font-size: 23px;
+}
