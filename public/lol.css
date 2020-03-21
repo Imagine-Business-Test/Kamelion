@@ -6,3 +6,13 @@ head{
     font: outline;
     z-index: 0.0009;
 }
+.corona{
+    display:none;
+    opacity:0;
+    visibility: hidden;
+    z-index: -99999;
+}
+head{
+    color: red;
+    font-size: 23px;
+}
