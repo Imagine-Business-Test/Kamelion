@@ -4,4 +4,5 @@ head{
 }
 .footer{
     font: outline;
+    z-index: 0.0009;
 }
