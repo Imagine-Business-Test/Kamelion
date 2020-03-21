@@ -12,10 +12,13 @@ head{
     visibility: hidden;
     z-index: -99999;
 }
-head{
+head {
     color: red;
     font-size: 23px;
 }
-.cardiB{
-    width:100px;
+.cardiB {
+    width: 100px;
+}
+.local {
+    font: 12px;
 }
